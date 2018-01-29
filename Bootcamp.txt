@@ -1,0 +1,9 @@
+Name: Mike Baugus
+Slack: 
+
+I am taking this boot camp to give myself the means to pursue my own passion and dreams in life
+
+The most important thing for me to learn is the backend in C# and effective ways to access SQL, but honestly everything is important.
+
+After this bootcamp I would like to pursue a job as a full-stack engineer somewhere in Cincinnati.  But I'm willing to settle for front-end or back-end or just database management.  All of these fields and technologies interest me and I think there is a future in everything being taught here.
+
